@@ -1,7 +1,5 @@
 ## 👋 Hi there, I’m Cahaya Tambunan
 
-## 👋 Hi there, I’m Cahaya Tambunan
-
 🎯 I’m a Data Analyst Intern at PT Gunung Raja Paksi, where I build dashboards, optimize SQL queries, and collaborate across teams to support data-driven decisions.
 
 📘 I transitioned from Mathematics Education to Data Science after graduating from a top-tier bootcamp and never looked back.
