@@ -2,7 +2,7 @@
 
 🎯 I’m a <strong>Data Analyst Intern at PT Gunung Raja Paksi</strong>, where I build dashboards, optimize SQL queries, and collaborate across teams to support data-driven decisions.
 
-📘 I transitioned from Mathematics Education to Data Science after graduating from a top-tier bootcamp (Top 1 of 16 students) and never looked back.
+📘 I transitioned from Mathematics Education to Data Science after graduating from a top-tier bootcamp and never looked back.
 
 🛠️ I enjoy building smart, efficient solutions — especially when I get to automate processes, visualize insights, and turn messy data into meaningful stories.
 
