@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Cahaya Tambunan
 
-🎯 I’m a **Data Analyst Intern at PT Gunung Raja Paksi**, where I build dashboards, optimize SQL queries, and collaborate across teams to support data-driven decisions.
+🎯 I’m a <strong>Data Analyst Intern at PT Gunung Raja Paksi</strong>, where I build dashboards, optimize SQL queries, and collaborate across teams to support data-driven decisions.
 
 📘 I transitioned from Mathematics Education to Data Science after graduating from a top-tier bootcamp (Top 1 of 16 students) and never looked back.
 
@@ -12,8 +12,12 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cahayatambunan)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cahayatambunan)
+<a href="https://www.linkedin.com/in/cahayatambunan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/cahayatambunan" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 ---
 
