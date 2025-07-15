@@ -1,8 +1,8 @@
 ## 👋 Hi there, I’m Cahaya Tambunan
 
-🎯 I’m a Data Analyst Intern at PT Gunung Raja Paksi, where I build dashboards, optimize SQL queries, and collaborate across teams to support data-driven decisions.
+🎯 I’m a <strong>Data Analyst Intern at PT Gunung Raja Paksi</strong>, where I build dashboards, optimize SQL queries, and collaborate across teams to support data-driven decisions.
 
-📘 I transitioned from Mathematics Education to Data Science after graduating from a top-tier bootcamp and never looked back.
+📘 I transitioned from Mathematics Education to Data Science after graduating from a top-tier bootcamp (Top 1 of 16 students) and never looked back.
 
 🛠️ I enjoy building smart, efficient solutions — especially when I get to automate processes, visualize insights, and turn messy data into meaningful stories.
 
@@ -12,8 +12,12 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cahayatambunan/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cahayatambunan)
+<a href="https://www.linkedin.com/in/cahayatambunan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/cahayatambunan" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 ---
 
@@ -39,13 +43,13 @@
 
 ## ✨ Highlights
 
-- 🔍 Built dashboards to monitor KPIs for HR, SCM, and Procurement teams
-- 📦 Developed Supplier 360 and Truck Vendor dashboards with SQL + Power BI
-- ⚙️ Automated reports & optimized SQL queries for data-driven decision making
-- 📈 Currently learning Python for predictive modeling and automation
+- 🔍 Built dashboards to monitor KPIs for HR, SCM, and Procurement teams  
+- 📦 Developed Supplier 360 and Truck Vendor dashboards with SQL + Power BI  
+- ⚙️ Automated reports & optimized SQL queries for data-driven decision making  
+- 📈 Currently learning Python for predictive modeling and automation  
 
 ---
 
 ## 📌 Fun Fact
-I used to teach mathematics — now I let data do the talking. 😉
 
+I used to teach mathematics — now I let data do the talking. 😉
